@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "about": "About",
+    "blog": "Blog"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "legal": "Legal Information",
+    "newsletter": "Newsletter",
+    "subscribe": "Subscribe",
+    "certifications": "Certifications & Partners",
+    "about": "Platform for eco-responsible product search for a more sustainable and ethical future.",
+    "emailPlaceholder": "Your email",
+    "gdprNotice": "By subscribing, you accept our GDPR privacy policy.",
+    "allRightsReserved": "All rights reserved.",
+    "madeWithLove": "Made with love for the planet",
+    "legalLinks": {
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Policy",
+      "legal": "Legal Notice"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Find",
+      "titleHighlight": "eco-responsible",
+      "titleEnd": "products",
+      "subtitle": "Discover thousands of ethical and sustainable products for a more planet-friendly lifestyle."
+    },
+    "search": {
+      "placeholder": "Search for an eco-responsible product...",
+      "results": {
+        "title": "Results for",
+        "noResults": "No products match your search.",
+        "resetFilters": "Reset filters",
+        "productsFound_one": "{{count}} product found",
+        "productsFound_other": "{{count}} products found"
+      }
+    },
+    "whyChoose": {
+      "title": "Why choose Ecolojia?",
+      "subtitle": "We help you make informed choices for a more sustainable lifestyle.",
+      "features": {
+        "verified": {
+          "title": "Verified Products",
+          "description": "All our products are carefully selected and verified according to strict ethical and ecological criteria."
+        },
+        "transparent": {
+          "title": "Transparent Rating",
+          "description": "Our rating system evaluates each product based on its environmental, social, and ethical impact."
+        },
+        "smart": {
+          "title": "Smart Search",
+          "description": "Our search engine helps you quickly find sustainable alternatives to your usual products."
+        }
+      }
+    }
+  },
+  "categories": {
+    "all": "All",
+    "food": "Food",
+    "fashion": "Fashion",
+    "beauty": "Beauty",
+    "home": "Home",
+    "electronics": "Electronics",
+    "garden": "Garden"
+  },
+  "product": {
+    "verified": "Verified Product",
+    "buyProduct": "Buy this product",
+    "ethicalScore": "Ethical Score",
+    "tags": {
+      "organic": "organic",
+      "fair": "fair trade",
+      "recyclable": "recyclable",
+      "local": "local",
+      "ethical": "ethical",
+      "zerowaste": "zero waste",
+      "natural": "natural",
+      "crueltyfree": "cruelty-free",
+      "recycled": "recycled",
+      "composting": "composting",
+      "durable": "durable",
+      "solar": "solar energy",
+      "sustainable": "sustainable agriculture"
+    }
+  }
+}

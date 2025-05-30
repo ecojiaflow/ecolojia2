@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "categories": "Catégories",
+    "about": "À propos",
+    "blog": "Blog"
+  },
+  "footer": {
+    "quickLinks": "Liens Rapides",
+    "legal": "Informations Légales",
+    "newsletter": "Newsletter",
+    "subscribe": "S'abonner",
+    "certifications": "Certifications et Partenaires",
+    "about": "Plateforme de recherche de produits éco-responsables pour un futur plus durable et éthique.",
+    "emailPlaceholder": "Votre email",
+    "gdprNotice": "En vous inscrivant, vous acceptez notre politique de confidentialité RGPD.",
+    "allRightsReserved": "Tous droits réservés.",
+    "madeWithLove": "Fait avec amour pour la planète",
+    "legalLinks": {
+      "terms": "Conditions d'utilisation",
+      "privacy": "Politique de confidentialité",
+      "cookies": "Politique de cookies",
+      "legal": "Mentions légales"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Trouvez des produits",
+      "titleHighlight": "éco-responsables",
+      "titleEnd": "",
+      "subtitle": "Découvrez des milliers de produits éthiques et durables pour un mode de vie plus respectueux de la planète."
+    },
+    "search": {
+      "placeholder": "Rechercher un produit éco-responsable...",
+      "results": {
+        "title": "Résultats pour",
+        "noResults": "Aucun produit ne correspond à votre recherche.",
+        "resetFilters": "Réinitialiser les filtres",
+        "productsFound_one": "{{count}} produit trouvé",
+        "productsFound_other": "{{count}} produits trouvés"
+      }
+    },
+    "whyChoose": {
+      "title": "Pourquoi choisir Ecolojia ?",
+      "subtitle": "Nous vous aidons à faire des choix éclairés pour un mode de vie plus durable.",
+      "features": {
+        "verified": {
+          "title": "Produits Vérifiés",
+          "description": "Tous nos produits sont soigneusement sélectionnés et vérifiés selon des critères éthiques et écologiques stricts."
+        },
+        "transparent": {
+          "title": "Notation Transparente",
+          "description": "Notre système de notation évalue chaque produit selon son impact environnemental, social et éthique."
+        },
+        "smart": {
+          "title": "Recherche Intelligente",
+          "description": "Notre moteur de recherche vous aide à trouver rapidement des alternatives durables à vos produits habituels."
+        }
+      }
+    }
+  },
+  "categories": {
+    "all": "Tous",
+    "food": "Alimentaire",
+    "fashion": "Mode",
+    "beauty": "Beauté",
+    "home": "Maison",
+    "electronics": "Électronique",
+    "garden": "Jardin"
+  },
+  "product": {
+    "verified": "Produit Vérifié",
+    "buyProduct": "Acheter ce produit",
+    "ethicalScore": "Score éthique",
+    "tags": {
+      "organic": "bio",
+      "fair": "équitable",
+      "recyclable": "recyclable",
+      "local": "local",
+      "ethical": "éthique",
+      "zerowaste": "zéro déchet",
+      "natural": "naturel",
+      "crueltyfree": "non testé sur les animaux",
+      "recycled": "recyclé",
+      "composting": "compostage",
+      "durable": "durable",
+      "solar": "énergie solaire",
+      "sustainable": "agriculture durable"
+    }
+  }
+}
